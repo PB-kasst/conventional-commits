@@ -13,5 +13,8 @@
   },
   "scripts": {
     "prepare": "husky"
+  },
+  "dependencies": {
+    "conventional-changelog": "^7.0.2"
   }
 }
